@@ -23,6 +23,7 @@ import java.util.Date;
 import java.util.Locale;
 
 public class MonthViewActivity extends AppCompatActivity {
+    //수정이 되었는가
     int year;
     int month;
     @Override
